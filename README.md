@@ -1,3 +1,7 @@
+# Archive notice
+
+LSP now implemented same way in better nixIDEA plugin, use it instead: https://plugins.jetbrains.com/plugin/8607-nixidea/
+
 # Nix LSP Plugin
 
 <!-- Plugin description -->
